@@ -1,0 +1,33 @@
+{
+  "name": "25.6_pughtml_expressjs",
+  "version": "1.0.0",
+  "description": "node expressjs pug",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szympol/25.6_PugHTML_ExpressJS.git"
+  },
+  "keywords": [
+    "node",
+    "expressjs",
+    "pug"
+  ],
+  "author": "Szymon Polanowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szympol/25.6_PugHTML_ExpressJS/issues"
+  },
+  "homepage": "https://github.com/szympol/25.6_PugHTML_ExpressJS#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}

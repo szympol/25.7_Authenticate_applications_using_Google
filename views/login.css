@@ -62,3 +62,6 @@ body {
 .form button:hover,.form button:active,.form button:focus {
   background: #7f8c8d;
 }
+.form button i {
+  padding-left: .3em;
+}

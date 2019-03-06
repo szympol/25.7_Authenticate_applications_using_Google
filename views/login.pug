@@ -1,13 +1,15 @@
 html
     head
         title Login to space
+        link(rel="stylesheet", href="https://use.fontawesome.com/releases/v5.7.2/css/all.css", integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr", crossorigin="anonymous")
         style
             include login.css
     body
-        .description Are you a dreamer? If yes, you've come to the right place. Please login in to start travelling the Unknown. 
+        .description Are you a dreamer? If yes, you've come to the right place. Please login in to your Google Account to start travelling the Unknown. 
         .login-page
             .form
                 form.login-form(action='/auth/google', method='GET')
                     input(type='text', placeholder='username')
                     input(type='password', placeholder='password')
                     button login
+                        i.fab.fa-google-plus-g

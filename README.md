@@ -3,15 +3,9 @@
 # Authenticate applications using Google
 **`[ExpressJS] [Pug] [API GOOGLE+]`**
 
+Are you a space traveller? Let's find out.
 
-# 25.7_Authenticate_applications_using_Google
-
- space travel app login site with Google authorization
-
-type in your terminal "npm install && start" and then run 'localhost:3000' in your browser
-
-
-Search GitHub users by their nicknames. The app fetches data on submit event from GitHub API. This project includes my own styling and JSX syntax.
+It is a space travel login app with Google authorization. Please log in with your Google account credentials. You will be redirected to space, once your account is positively verified.
 
 ## Getting Started
 

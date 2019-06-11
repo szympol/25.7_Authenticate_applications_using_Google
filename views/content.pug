@@ -6,8 +6,8 @@ html
     body
         div#large-header.large-header
             canvas#demo-canvas
-            h1.main-title Welcome 
-                span.thin Space Traveller!
+            h1.main-title Welcome #{user.displayName}
+                div.thin the most famous Space Traveller!
             include foot.pug
         script(src='https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/EasePack.min.js')
         script(src='https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/rAF.js')

@@ -1,4 +1,4 @@
-[<img src="https://github.com/szympol/25.7_Authenticate_applications_using_Google/blob/master/images/main.JPG?raw=true" align="right" alt="Authenticate applications using Google" width="40%">](https://github.com/szympol/25.7_Authenticate_applications_using_Google/)
+[<img src="https://github.com/szympol/Authenticate-applications-using-Google/blob/master/images/main.JPG?raw=true" align="right" alt="Authenticate applications using Google" width="40%">](https://github.com/szympol/Authenticate-applications-using-Google/)
 
 # Authenticate applications using Google
 **`[ExpressJS] [Pug] [API GOOGLE+]`**
@@ -9,7 +9,7 @@ It is a space travel login app with Google authorization. Please log in with you
 
 ## Getting Started
 
-<!-- - [View project online](https://szympol.github.io/25.7_Authenticate_applications_using_Google) -->
+<!-- - [View project online](https://szympol.github.io/Authenticate-applications-using-Google) -->
 This project requires a server to start working.
 
 Please follow instructions below, if you are willing to run the project locally.
@@ -25,7 +25,7 @@ Please copy and paste below commands to your Git terminal step by step to get a 
 Download a repository:
 
 ```node
-git clone git@github.com:szympol/25.7_Authenticate_applications_using_Google.git authenticateApplicationsUsingGoogle
+git clone git@github.com:szympol/Authenticate-applications-using-Google.git authenticateApplicationsUsingGoogle
 ```
 
 Go to the project working directory:
